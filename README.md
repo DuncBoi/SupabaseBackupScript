@@ -9,7 +9,7 @@ A lightweight Python script to back up your Supabase Postgres database—one-tim
 Clone this repo and run the setup script:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/SupabaseBackupScript.git
+git clone https://github.com/DuncBoi/SupabaseBackupScript.git
 cd SupabaseBackupScript
 bash setup.sh
 ```
