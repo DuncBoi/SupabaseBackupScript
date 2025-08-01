@@ -4,6 +4,16 @@ A lightweight Python script to back up your Supabase Postgres database—one-tim
 
 ---
 
+
+## Requirements
+
+- **Python 3.8+** (recommended 3.10+)
+- **pg_dump** (PostgreSQL client tool)
+- **pip** (Python package installer)
+- Access to your Supabase project's [Transaction Pooler] database URL
+
+---
+
 ## Quickstart
 
 Clone this repo and run the setup script:
